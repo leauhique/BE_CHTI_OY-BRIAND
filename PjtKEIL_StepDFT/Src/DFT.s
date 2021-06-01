@@ -73,11 +73,6 @@ Boucle
 	;incrementation de l'index
 	; R2 = R2 +1
 	ADD R2,R2,#1
-		
-	
-
-	
-	
 	
 	
 	CMP R2,#64
